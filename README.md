@@ -39,7 +39,7 @@ This project helped me practice:
 - Building a modern landing page
 
   ## How to View
-  
+  you can access my portfolio website by visiting [link] free to explore the content and get in touch!
 
 ## 👨‍💻 Author
 
