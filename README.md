@@ -1,4 +1,4 @@
-# 🌿 Greenden - Flower Sale Website
+# Greenden
 
 Greenden is a responsive flower shop website built using **HTML** and **Tailwind CSS**. The project showcases a clean and modern user interface for browsing flower products and contacting the store.
 
@@ -39,7 +39,7 @@ This project helped me practice:
 - Building a modern landing page
 
   ## How to View
-  you can access my portfolio website by visiting [link] free to explore the content and get in touch!
+  you can access my portfolio website by visiting [https://aharisivakumar.github.io/Greenden/] free to explore the content and get in touch!
 
 ## 👨‍💻 Author
 
